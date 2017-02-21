@@ -53,6 +53,11 @@ fabric.properties
 # .idea/misc.xml
 # *.ipr
 
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
 ### Gradle ###
 .gradle
 /build/
